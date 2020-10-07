@@ -9,7 +9,6 @@
 ### Association
 - has_many :lists
 
-***
 
 ## ■listsテーブル(スケジュールの予定）エクセルで出力する情報
 
